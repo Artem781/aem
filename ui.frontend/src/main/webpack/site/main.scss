@@ -1,7 +1,9 @@
 
 @import 'variables';
 @import 'base';
+//src/main/webpack/components
 @import '../components/**/*.scss';
+//src/main/webpack/site/styles
 @import './styles/*.scss';
 
 //
